@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/bef" # the subpath of your site, e.g. /blog
+baseurl: "/homepage" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
@@ -14,12 +14,12 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
+author-pic: face.png # your photo
 author-name: # your name
 about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+email: w407022008@gmail.com # your email
+phone: 0086+18520872028 # your pnone number
+website: https://w407022008.github.io/homepage/ # you website
 
 # Social link
 google_url:    # add url link
