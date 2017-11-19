@@ -6,4 +6,5 @@ date: 2016-11-24 12:00
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [NPU]
 ---
+。。。
 > 待写 <cite>- Sique</cite>
