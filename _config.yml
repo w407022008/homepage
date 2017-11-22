@@ -7,12 +7,12 @@ url: "http://w407022008.github.io" # the base hostname & protocol for your site,
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
+banner-title: 生活 # add banner title
 banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
+author-name: 王泽 # your name
 about-author: # about author
 email: w407022008@gmail.com # your email
 phone: 0086+18520872028 # your pnone number
