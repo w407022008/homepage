@@ -6,7 +6,7 @@ baseurl: "/homepage" # the subpath of your site, e.g. /blog
 url: "http://w407022008.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: bookvideo.mp4 # add banner video. Add your video file to the folder video
 banner-title: 生活 # add banner title
 banner-desc: # add banner description
 
