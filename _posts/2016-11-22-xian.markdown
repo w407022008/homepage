@@ -1,4 +1,4 @@
-x---
+---
 layout: post
 title: "xian"
 img: xian.JPG # Add image post (optional)
