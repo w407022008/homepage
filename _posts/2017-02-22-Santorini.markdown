@@ -7,3 +7,4 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Santorini, Travel, Island]
 ---
 
+> 这里一定是爱琴海建筑风情的精华啊，所有的建筑又包括这里的生活气息，简直世外桃源

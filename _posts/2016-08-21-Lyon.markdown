@@ -6,3 +6,5 @@ date: 2016-08-21 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Lyon, Cate]
 ---
+
+> lyon法国第二大城市，也是法国最安全的城市了，至少欧洲都乱的时候这里没什么事情。而且lyon有自己当地的文化节日，这一点令我这个汉族同胞还是觉得诧异的。。有空说说吧，还有INSA
