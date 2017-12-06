@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PRT"
-img: PRT.png # Add image post (optional)
+img: PRT.jpg # Add image post (optional)
 date: 2017-12-06 00:01:00 +0086
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [traffic]
