@@ -54,6 +54,7 @@ tag: [PRT]
 ![](http://www.metro951.com/wp-content/uploads/2016/03/auto-batman-635x321.jpg)
 
 ![traffic jam](http://t.wsgxsp.com/uploads/149733251620689.png)
+
 **当你读完这些，你看到窗外的空气，已经难以呼吸了！**
 
 **为了明天不迟到，你还要设定提早10分钟起床的闹钟！**
@@ -82,6 +83,8 @@ tag: [PRT]
 * 又或者，连接居民区、科学园、商业区的个人轨道交通
 
 ![](http://www.ultraprt.net/stills/Still2.jpg)
+
+![traffic jam](http://t.wsgxsp.com/uploads/149733251620689.png)
 
 # 个人轨道交通（Personal Rapid Transit）
 ## 简介
